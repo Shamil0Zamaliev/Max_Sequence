@@ -1,0 +1,15 @@
+G:\Study\Code_projects_1course\Max_Sequence\obj\Debug\net6.0\Max_Sequence.csproj.AssemblyReference.cache
+G:\Study\Code_projects_1course\Max_Sequence\obj\Debug\net6.0\Max_Sequence.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\Code_projects_1course\Max_Sequence\obj\Debug\net6.0\Max_Sequence.AssemblyInfoInputs.cache
+G:\Study\Code_projects_1course\Max_Sequence\obj\Debug\net6.0\Max_Sequence.AssemblyInfo.cs
+G:\Study\Code_projects_1course\Max_Sequence\obj\Debug\net6.0\Max_Sequence.csproj.CoreCompileInputs.cache
+G:\Study\Code_projects_1course\Max_Sequence\bin\Debug\net6.0\Max_Sequence.exe
+G:\Study\Code_projects_1course\Max_Sequence\bin\Debug\net6.0\Max_Sequence.deps.json
+G:\Study\Code_projects_1course\Max_Sequence\bin\Debug\net6.0\Max_Sequence.runtimeconfig.json
+G:\Study\Code_projects_1course\Max_Sequence\bin\Debug\net6.0\Max_Sequence.dll
+G:\Study\Code_projects_1course\Max_Sequence\bin\Debug\net6.0\Max_Sequence.pdb
+G:\Study\Code_projects_1course\Max_Sequence\obj\Debug\net6.0\Max_Sequence.dll
+G:\Study\Code_projects_1course\Max_Sequence\obj\Debug\net6.0\refint\Max_Sequence.dll
+G:\Study\Code_projects_1course\Max_Sequence\obj\Debug\net6.0\Max_Sequence.pdb
+G:\Study\Code_projects_1course\Max_Sequence\obj\Debug\net6.0\Max_Sequence.genruntimeconfig.cache
+G:\Study\Code_projects_1course\Max_Sequence\obj\Debug\net6.0\ref\Max_Sequence.dll
